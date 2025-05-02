@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "xstring": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "arraysum": "cpp"
     }
 }
